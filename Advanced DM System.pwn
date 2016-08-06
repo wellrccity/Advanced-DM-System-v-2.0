@@ -12,7 +12,7 @@ Version 2.0                                                 |
 *Added Hitsound Feature can be switched by Players          |
 *Added Textdraws for Showing Current Mode                   |
 *Optmised the code much                                     |
-*Making Dms are now is Hell Easy                            |
+*Making Dms is now  Hell Easy                               |
 *Added Feature for Blocking CMDS in DM                      |
 *Added Musics for each dm                                   |
 *Added DM chat.Now players in DM can chat prefixing '#'     |
